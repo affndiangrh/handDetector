@@ -12,7 +12,7 @@ This project demonstrates how to detect hands using Python, OpenCV, and MediaPip
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/hand-detector.git
+    git clone https://github.com/affndiangrh/handDetector.git
     cd hand-detector
     ```
 
